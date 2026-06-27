@@ -1,0 +1,11 @@
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/bin/Debug/net10.0/Domain.deps.json
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/bin/Debug/net10.0/Domain.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/bin/Debug/net10.0/Domain.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfoInputs.cache
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.AssemblyInfo.cs
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.csproj.CoreCompileInputs.cache
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/refint/Domain.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/Domain.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Domain/obj/Debug/net10.0/ref/Domain.dll

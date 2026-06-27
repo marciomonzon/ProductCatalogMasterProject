@@ -1,0 +1,17 @@
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Infrastructure.deps.json
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Infrastructure.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Infrastructure.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Application.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Domain.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Application.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/bin/Debug/net10.0/Domain.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.AssemblyReference.cache
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfoInputs.cache
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfo.cs
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastr.15EFFBFE.Up2Date
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/refint/Infrastructure.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/Infrastructure.pdb
+/home/monzon/projetos/ProductCatalogMasterProject/src/Infrastructure/obj/Debug/net10.0/ref/Infrastructure.dll
