@@ -34,6 +34,17 @@ public class Product : BaseEntity
         Stock = stock;
     }
 
+    public void Update(string name, string description, decimal price, int stock)
+    {
+        Validate(name, description, price, stock);
+
+        Name = name;
+        Description = description;
+        Price = price;
+        Stock = stock;
+        UpdatedAt = DateTime.UtcNow;
+    }
+
     private static void Validate(
         string name,
         string description,

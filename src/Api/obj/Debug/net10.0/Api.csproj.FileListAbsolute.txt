@@ -37,3 +37,4 @@
 /home/monzon/projetos/ProductCatalogMasterProject/src/Api/obj/Debug/net10.0/Api.pdb
 /home/monzon/projetos/ProductCatalogMasterProject/src/Api/obj/Debug/net10.0/Api.genruntimeconfig.cache
 /home/monzon/projetos/ProductCatalogMasterProject/src/Api/obj/Debug/net10.0/ref/Api.dll
+/home/monzon/projetos/ProductCatalogMasterProject/src/Api/obj/Debug/net10.0/Api.sourcelink.json
