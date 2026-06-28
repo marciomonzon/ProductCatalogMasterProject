@@ -1,0 +1,53 @@
+services:
+
+  postgres:
+
+    image: postgres:17.6
+
+    container_name: productcatalog-postgres
+
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: productcatalog
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+    networks:
+      - productcatalog-network
+
+  pgadmin:
+
+    image: dpage/pgadmin4
+
+    container_name: productcatalog-pgadmin
+
+    restart: unless-stopped
+
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@productcatalog.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+
+    ports:
+      - "5050:80"
+
+    depends_on:
+      - postgres
+
+    networks:
+      - productcatalog-network
+
+volumes:
+
+  postgres_data:
+
+networks:
+
+  productcatalog-network:
+    driver: bridge

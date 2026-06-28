@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gSjU46+t9C0=",
+  "dgSpecHash": "SH2e0keSTDU=",
   "success": true,
   "projectFilePath": "/home/monzon/projetos/ProductCatalogMasterProject/src/Api/Api.csproj",
   "expectedPackageFiles": [
     "/home/monzon/.nuget/packages/microsoft.aspnetcore.openapi/10.0.9/microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
-    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore/10.0.9/microsoft.entityframeworkcore.10.0.9.nupkg.sha512",
-    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.9/microsoft.entityframeworkcore.abstractions.10.0.9.nupkg.sha512",
-    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.9/microsoft.entityframeworkcore.analyzers.10.0.9.nupkg.sha512",
+    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore/10.0.4/microsoft.entityframeworkcore.10.0.4.nupkg.sha512",
+    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore.abstractions/10.0.4/microsoft.entityframeworkcore.abstractions.10.0.4.nupkg.sha512",
+    "/home/monzon/.nuget/packages/microsoft.entityframeworkcore.analyzers/10.0.4/microsoft.entityframeworkcore.analyzers.10.0.4.nupkg.sha512",
     "/home/monzon/.nuget/packages/microsoft.entityframeworkcore.relational/10.0.4/microsoft.entityframeworkcore.relational.10.0.4.nupkg.sha512",
     "/home/monzon/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
     "/home/monzon/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
